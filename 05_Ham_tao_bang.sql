@@ -13,6 +13,7 @@ BEGIN
 END
 GO
 --Test ...
+--fix user
 SELECT * FROM dbo.Thong_ke_nhan_vien()
 GO
 --
